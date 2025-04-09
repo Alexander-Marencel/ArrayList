@@ -3,8 +3,8 @@ Displays knowledge of ArrayList in Java
 
 ## App
 App creates two arrays
-* static ArrayList<Course> courses;
-* static ArrayList<GenEd> geneds;
+* static ArrayList\<Course\> courses;
+* static ArrayList\<GenEd\> geneds;
 
 The *loader* classes populate the arrays.\
 A for loop goes through the courses array looking for courses that have a genEd.\
