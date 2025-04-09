@@ -1,0 +1,636 @@
+IST
+110
+Information, People and Technology
+3
+GS
+======
+IST
+111
+Seminar in IST
+1
+NONE
+======
+IST
+130
+Emerging Technologies in Popular Culture
+3
+GA
+======
+IST
+140
+Introduction to Application Development
+3
+NONE
+======
+IST
+197
+Special Topics
+3
+NONE
+======
+IST
+198
+Special Topics
+3
+NONE
+======
+IST
+199
+Foreign Studies
+3
+IL
+======
+IST
+210
+Organization of Data
+3
+NONE
+======
+IST
+211
+Advanced Topics in Relational Database Management Systems
+3
+NONE
+======
+IST
+220
+Networking and Telecommunications
+3
+NONE
+======
+IST
+225
+PC Hardware Basics
+3
+NONE
+======
+IST
+226
+Networking Essentials
+3
+NONE
+======
+IST
+227
+Network Administration
+3
+NONE
+======
+IST
+228
+Advanced Network Administration
+3
+NONE
+======
+IST
+230
+Language, Logic, and Discrete Mathematics
+3
+NONE
+======
+IST
+234
+Digital Cultures
+3
+GS
+======
+IST
+235
+Gender and the Global Information Technology Sector
+3
+US
+======
+IST
+237
+Digital Entrepreneurship
+3
+NONE
+======
+IST
+240
+Introduction to Computer Languages
+3
+NONE
+======
+IST
+242
+Intermediate & Object-Oriented Application Development
+3
+NONE
+======
+IST
+250
+New Media and the Web
+3
+NONE
+======
+IST
+255
+Fundamentals of Web Administration
+3
+NONE
+======
+IST
+256
+Programming for the Web
+3
+NONE
+======
+IST
+257
+Advanced Web Administration
+3
+NONE
+======
+IST
+260
+ Introduction to Systems Analysis and Design
+3
+NONE
+======
+IST
+261
+Application Development Design Studio I
+3
+NONE
+======
+IST
+294
+Research Project
+3
+NONE
+======
+IST
+295
+ Distributed Team Project
+3
+NONE
+======
+IST
+296
+Independent Studies
+3
+NONE
+======
+IST
+297
+Special Topics
+3
+NONE
+======
+IST
+298
+Special Topics
+3
+NONE
+======
+IST
+299
+Foreign Studies
+3
+IL
+======
+IST
+301
+Information and Organizations
+3
+NONE
+======
+IST
+302
+IT Project Management
+3
+NONE
+======
+IST
+310
+Digital Media Metrics
+3
+NONE
+======
+IST
+311
+Object-Oriented Design and Software Applications
+3
+NONE
+======
+IST
+331
+Organization and Design of Information Systems: User and System Principles
+3
+NONE
+======
+IST
+337
+Technologies for Digital Entrepreneurs
+3
+NONE
+======
+IST
+341
+Human Diversity in the Global Information Economy (3)
+3
+US
+======
+IST
+361
+Application Development Design Studio II
+3
+NONE
+======
+IST
+390
+Introduction to Professional Development
+1
+NONE
+======
+IST
+397
+Special Topics
+3
+NONE
+======
+IST
+398
+Special Topics
+3
+NONE
+======
+IST
+399
+Foreign Studies
+3
+IL
+======
+IST
+402
+Emerging Issues and Technologies
+3
+NONE
+======
+IST
+411
+Distributed-Object Computing
+3
+NONE
+======
+IST
+412
+The Engineering of Complex Software Systems
+3
+NONE
+======
+IST
+413
+Usability Engineering
+3
+NONE
+======
+IST
+420
+Fundamentals of Systems and Enterprise Integration
+3
+NONE
+======
+IST
+421
+Advanced Enterprise Integration: Technologies and Applications
+3
+NONE
+======
+IST
+422
+Enterprise Architecture Foundations
+3
+NONE
+======
+IST
+423
+Enterprise Information Management and Storage Architecture
+3
+NONE
+======
+IST
+424
+Architectural Modeling of Organizations
+3
+NONE
+======
+IST
+425
+New Venture Creation
+3
+NONE
+======
+IST
+426
+Invention Commercialization
+3
+NONE
+======
+IST
+431
+The Information Environment
+3
+NONE
+======
+IST
+432
+Legal and Regulatory Environment of Information Science and Technology
+3
+NONE
+======
+IST
+437
+Digital Design & Innovation
+3
+NONE
+======
+IST
+440
+ Information Sciences and Technology Integration and Problem Solving
+3
+NONE
+======
+IST
+441
+Information Retrieval and Organization
+3
+NONE
+======
+IST
+442
+Information Technology in an International Context
+3
+IL
+======
+IST
+443
+IT Professional Services Theory and Practice
+3
+NONE
+======
+IST
+444
+Advanced IT Professional Services
+3
+NONE
+======
+IST
+445
+ Globalization Trends and World Issues
+3
+NONE
+======
+IST
+446
+An Introduction to Building Computer/Video Games
+3
+NONE
+======
+IST
+450
+ Digital Advertising
+3
+NONE
+======
+IST
+451
+Network Security
+3
+NONE
+======
+IST
+452
+Legal and Regulatory Environment of Privacy and Security
+3
+NONE
+======
+IST
+453
+Legal, Regulatory, Policy Environment of Cyber Forensics
+3
+NONE
+======
+IST
+454
+Computer and Cyber Forensics
+3
+NONE
+======
+IST
+456
+Information Security Management
+3
+NONE
+======
+IST
+461
+Database Management and Administration
+3
+NONE
+======
+IST
+462
+Database Modeling and Applications
+3
+NONE
+======
+IST
+489
+ Research Methods for the Information Sciences and Technology
+3
+NONE
+======
+IST
+494
+Research Project
+3
+NONE
+======
+IST
+495
+Internship
+3
+NONE
+======
+IST
+496
+Independent Studies
+3
+NONE
+======
+IST
+497
+Special Topics
+3
+NONE
+======
+IST
+498
+Special Topics
+3
+NONE
+======
+SRA
+001
+ First-Year Seminar in Security and Risk Analysis
+1
+NONE
+======
+SRA
+099
+Foreign Studies
+3
+IL
+======
+SRA
+111
+Introduction to Security and Risk Analysis
+3
+GS
+======
+SRA
+197
+Special Topics
+3
+NONE
+======
+SRA
+199
+Foreign Studies
+3
+IL
+======
+SRA
+211
+Threat of Terrorism and Crime
+3
+NONE
+======
+SRA
+221
+Overview of Information Security
+3
+NONE
+======
+SRA
+231
+Decision Theory and Analysis
+3
+NONE
+======
+SRA
+294
+Research Project
+3
+NONE
+======
+SRA
+296
+Independent Studies
+3
+NONE
+======
+SRA
+297
+Special Topics
+3
+NONE
+======
+SRA
+299
+Foreign Studies
+3
+IL
+======
+SRA
+311
+Risk Analysis in a Security Context
+3
+NONE
+======
+SRA
+321
+The Role of Information and Intelligence
+3
+NONE
+======
+SRA
+365
+Statistics for Security and Risk Analysis
+3
+NONE
+======
+SRA
+397
+Special Topics
+3
+NONE
+======
+SRA
+399
+Foreign Studies
+3
+IL
+======
+SRA
+421
+The Intelligence Environment
+3
+NONE
+======
+SRA
+433
+Deception and Counterdeception
+3
+NONE
+======
+SRA
+440
+ Security and Risk Analysis Capstone Course
+3
+NONE
+======
+SRA
+468
+Visual Analytics for Security Intelligence
+3
+NONE
+======
+SRA
+471
+Informatics, Risk, and the Post-Modern World
+3
+NONE
+======
+SRA
+472
+Integration of Privacy and Security
+3
+NONE
+======
+SRA
+480
+Crisis Informatics
+3
+NONE
+======
+SRA
+494
+Research Project
+3
+NONE
+======
+SRA
+496
+Independent Studies
+3
+NONE
+======
+SRA
+497
+Special Topics
+3
+NONE
+======
